@@ -2,6 +2,7 @@
 A 2D game played 2 players on the same keyboard.
 
 *Controls*
+
 Player 1: WASD + space
 
 Player 2: ARROWKEYS + .
